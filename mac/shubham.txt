@@ -1,0 +1,2 @@
+Requirement already satisfied: freeze in c:\programdata\anaconda3\lib\site-packages (3.0)
+Requirement already satisfied: six in c:\programdata\anaconda3\lib\site-packages (from freeze) (1.12.0)
